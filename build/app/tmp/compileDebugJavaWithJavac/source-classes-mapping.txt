@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/security_setting/BuildConfig.java
+ com.example.security_setting.BuildConfig
+com/example/security_setting/MainActivity.java
+ com.example.security_setting.MainActivity
